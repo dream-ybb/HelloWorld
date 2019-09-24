@@ -1,3 +1,3 @@
 # HelloWorld
-this is my first repository
-Java is goog
+这是我的第一个仓库
+好好学习，天天向上
